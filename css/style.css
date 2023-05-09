@@ -163,9 +163,26 @@
 
 .footer-bottom{
     background-color: #23272A;
-    height: 100px;
+    height: 200px;
 }
 
+.flex-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-box1{
+    background-color: #F08080;
+    height: 400px;
+    width: 40%;
+}
+
+.footer-box2{
+    background-color: #21B2AA;
+    height: 400px;
+    width: 60%;    
+}
 
 /* DEBUG */
 
