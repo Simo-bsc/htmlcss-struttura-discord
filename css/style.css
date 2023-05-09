@@ -22,9 +22,45 @@
     height: 100px;
 }
 
+#header-top{
+    background-color: #DAA51F;
+    height: 50px;   
+    
+}
+
+.flex-top{
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+}
+
+.box-logo{
+    width: 25%;
+}
+
+.box-link{
+    width: 50%;
+}
+
+.box-login{
+    width: 25%;
+}
+
 .header-bottom{
     background-color: #03018B;
     height: 500px;
+}
+
+#header-bottom{
+    background-color: #EE82EE;
+    height: 400px;
+    width: 700px;
+}
+
+.flex-bottom{
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
 }
 
 /* MAIN */
