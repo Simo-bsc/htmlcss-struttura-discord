@@ -16,6 +16,12 @@
     margin: 0 auto;
 }
 
+.button{
+    border-radius: 40px;
+    font-size: 14px;
+    padding: 7px 16px;
+}
+
 /* HEADER */
 .header-top{
     background-color: #ADD8E6;
@@ -184,6 +190,14 @@
     width: 60%;    
 }
 
+.footer-small-box{
+    height: 400px;
+    width: 25%;
+}
+
+#hr-white{
+    color: white;
+}
 /* DEBUG */
 
 .border-debug.black{
